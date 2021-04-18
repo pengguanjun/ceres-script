@@ -1,4 +1,9 @@
 ceres-script
+
+ceres-good-lib directly useful
+链接：https://pan.baidu.com/s/1NBBZdyIdwZrpVuXlNA1s-A 
+提取码：oxk6 
+
 ============
 
 About
